@@ -1,5 +1,5 @@
 provider "aws"{
-	profile = "planetvitals"
+	profile = "profilename"
 	region = "us-east-1"
 }
 
